@@ -1,5 +1,7 @@
 <html>
-<title>HI~</title>
+    <head>
+    <title>HI~</title>
+    </head>
 <div center>
     I don't relly know why I'm here,why i'm writing these words.<br>
     you know what?<br>

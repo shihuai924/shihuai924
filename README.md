@@ -1,15 +1,15 @@
 <html>
-<div align=center>
-    I don't relly know why I'm here,why i'm writing these words.
-    you know what?
-    I want to finish it.
-    but
-    here is a question
-    how to put it **in the middle**?
+<div center>
+    I don't relly know why I'm here,why i'm writing these words.<br>
+    you know what?<br>
+    I want to finish it.<br>
+    but<br>
+    here is a question<br>
+    how to put it <h3>in the middle?</h3><br>
 </div>
-<div><center>
+<div center>
     you know what? my friend.<br>
     I forgot to use'''<br>'''
     fine it will be ok now<br>
     right?<br>
-</center></div>
+</div>

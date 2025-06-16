@@ -1,4 +1,5 @@
 <html>
+<title>HI~</title>
 <div center>
     I don't relly know why I'm here,why i'm writing these words.<br>
     you know what?<br>
@@ -9,7 +10,7 @@
 </div>
 <div center>
     you know what? my friend.<br>
-    I forgot to use'''<br>'''
-    fine it will be ok now<br>
+    I forgot to use the br <br>
+    fine,it will be ok now<br>
     right?<br>
 </div>
